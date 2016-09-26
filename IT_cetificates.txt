@@ -1,0 +1,26 @@
+Trải nghiệm xin việc ngành IT ở Mẽo
+Duy Linh·26 Tháng 4 2016
+(Đọc lại thấy câu cú lủng củng quá mà lười sửa, cái này là hậu quả của việc chép văn mẫu hồi học phổ thông)
+1. Linh tinh: 
+Note này mình có hứa với một vài (thật ra là nhiều) người bạn để viết lâu rồi nhưng một do mình lười, hai là qua chưa lâu trải nghiệm cũng chưa “sâu” nên chưa dám viết hay bình loạn linh tinh. Mình thì trình độ không tới đâu, cũng như chả có cái bằng cấp gì cả nên cái hướng đi và trải nghiệm của mình có thể hơi khác với mọi người. Mình muốn chia sẻ chủ yếu cho các bạn mới ra trường biết mình nên viết một Resume cơ bản như thế nào. 
+
+Bài viết được viết dưới góc nhìn của mình, một người không có bằng đại học ( hay bất cứ “degree” nào) của Việt Nam hay cả “quốc tế”. Cái mình có thể trưng ra để thu hút nhà tuyển dụng là một vài thủ thuật nhỏ, các chứng chỉ về tin học của một số tổ chức nước ngoài cùng với số năm kinh nghiệm mình làm việc ở Việt Nam. Tóm tắt lại mình chả có tài năng hay đặc điểm gì nổi trội cả,  nên mình chỉ cố gắng chia sẻ những gì mình biết về cách xin việc ngành tin học / điện toán/ công nghệ thông tin ở Mẽo trong khả năng có thể.
+
+Và điểm cuối cùng là về việc nộp đơn cho các công ty Mẽo từ VN có khả thi hay không ? Trong quá trình đi làm và xin việc, mình nhận thấy các công ty ở Mỹ săn người ở khu vực châu Á trong ngành công nghệ thông tin (Developer/Software Engineer) rất nhiều đặc biệt là ở Ấn Độ và Trung Quốc, thậm chí là Việt Nam và đưa qua đây bằng visa H1-B. Các nhân viên tuyển dụng ở các công ty lớn như Google, MS, Amazon ... gốc Việt là rất nhiều, thậm chí là họ bố trí người gốc Việt trong các vòng phỏng vấn kỹ thuật cuối để đánh giá chính xác hơn khả năng của ứng viên. Nên việc apply cho công việc bên đây từ Việt Nam là hoàn toàn có thể, có thể mình sẽ nói ở một note khác kỹ hơn nếu không bị lười.
+
+2. Vấn đề bằng cấp và chứng chỉ:
+Câu hỏi muôn thuở là bằng ĐH ngành IT ở Việt Nam có giá trị gì khi xin việc không ? Và bằng đại học có quan trọng với đặc thù ngành IT không ? 
+- Mình có nói chuyện với một vài người tuyển dụng trong công ty mình đang làm, cái đầu tiên mà họ nhìn vào Resume chính là bằng cấp (degree) và chứng chỉ (certificate) của bạn. Tất nhiên, sinh viên tốt nghiệp ở đại học Mỹ sẽ được ưu tiên nhưng nếu Resume của bạn kèm theo các chứng chỉ tốt hoặc số năm kinh nghiệm đối với một kỹ thuật cụ thể mà họ cần cho vị trí đó thì bạn vẫn có giá trị hơn (mình sẽ nói rõ hơn ở phần trình bày Resume). Bằng cấp ở Việt Nam kèm với kinh nghiệm làm việc có giá trị cụ thể (kinh nghiệm thực sự) vẫn sẽ được chú ý và có cơ hội được gọi phỏng vấn. Tuy nhiên từ khóa họ thích nhất là (India) nên ai có bằng cấp liên quan gì tới Ấn Độ là một lợi thế.
+Các chứng chỉ nhân viên tuyển dụng thường chú ý:
+- Mình không phải là lập trình viên nên mình không rành các chứng chỉ cho vị trí đó lắm, có thể các anh chị trong danh sách bạn của mình sẽ biết rõ hơn. Mình chỉ chia sẻ trong phạm vi hiểu biết của mình đối với các vị trí System development engineer, Senior System Engineer, Network Engineer (các vị trí có thể được tuyển overseas):
+  + Các yêu cầu kỹ năng về Windows Server, Database: Tất nhiên là của Microsoft (MCITP Enterprise administrator, MCITP: Database Administrator + Oracle: OCP). Đặc biệt lưu ý là kiến thức đối với các sản phẩm của MS là rất sâu cũng như thành thục Powershell, hệ thống SCCM, quản trị WSUS, DFS là yêu cầu bắt buộc chứ không phải lôi pass4sure, dumb test ra học để lấy bằng như phần lớn kỹ sư ở Việt Nam hay làm.
+  + Linux : họ đòi hỏi kỹ năng thực sự nhiều hơn nhưng được biết tới nhiều nhất là của Redhat : RHCSA, RHCE ... (cá nhân mình thì thấy nhà tuyển dụng tìm theo từ khóa nên các chứng chỉ khác như LPI, Linux +, Suse CLA, CLP cũng có hiệu quả)
+  + Comptia: Network + và Security + (Security+ hiện nay đang rất có giá)
+  + Network: khuyến khích tối thiểu là CCNP
+- Vấn đề bằng cấp, chứng chỉ chỉ có tác dụng ban đầu khi nhân viên tuyển dụng tìm kiếm hồ sơ dựa trên điều kiện họ nhận được. Cái quyết định bạn được gửi mail mời phỏng vấn hay không là cách bạn trình bày kỹ năng và kinh nghiệm (chính xác là những thành tựu bạn đạt được / đóng góp trong quá trình làm việc) chứ không phải bê nguyên bảng mô tả công việc vào resume.
+3. Người giới thiệu:
+- Hay còn gọi là professional references, cái này là quan trọng nhất vì họ rất chú trọng vào đánh giá cũng như giới thiệu của sếp hay người từng làm chung với mình. Khi bạn được nhận phỏng vấn chắc chắn họ sẽ email hỏi những người này về bạn. Tốt nhất là bạn nên có 1 người giới thiệu ơ Mỹ nếu muốn xin việc ở đây. Mình may mắn là được đồng nghiệp với mấy anh sếp cũ thương bởi tính hiền lành nên cũng đc phản hồi khá tốt :v . Và mình đặc biệt cảm ơn anh bạn ở Mỹ là Nikki Nguyen phản hồi tốt về mình cho rất nhiều công ty ở đây (viết tiếng Việt nhiều chắc ổng không đọc)
+
+(Bữa nào rảnh viết tiếp về cách làm Resume và xây dựng profile trên các mạng xã hội công việc nhưng các bạn có thể tham khảo ở đây trước http://www.businessinsider.com/elon... Mình cũng bỏ hoàn toàn Resume của mình vẫn dùng trước đây và dành 2 tháng để làm lại Resume chỉ gói gọn trong 1 trang trước khi qua Mỹ)
+  
+

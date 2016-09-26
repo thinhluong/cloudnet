@@ -1,0 +1,4 @@
+wpa_passphrase HongThinh 1688861283 >> /etc/wpa_supplicant/wpa_supplicant.conf
+ethtool -i wlan0 #check card driver
+# wpa_supplicant -D nl80211,wext -i wlan0 -c <(wpa_passphrase your_SSID your_key)
+# wpa_supplicant -B -Dwext -i eth1 -c /etc/wpa_supplicant/wpa_supplicant.conf #run in background

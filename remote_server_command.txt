@@ -1,0 +1,29 @@
+153.121.44.84    root/62f3w4yu9w
+
+iptables -A INPUT -p tcp --destination-port 3306 -j ACCEPT
+GRANT ALL ON DigitalConSys.* TO root@'192.168.%' IDENTIFIED BY '6121983';
+GRANT ALL ON jlangrescue.* TO root@'192.168.%' IDENTIFIED BY '6121983';
+check service status: netstat -tupan | grep mysql
+
+---------------------------------------------
+How can i develope website for cross browser’s? As centOS server operator? (never looking back to microsoft).
+
+1. IEs4Linux, project is doing that.
+
+2. wget http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz
+
+3. [root@www ~]# tar xvfz ies4linux-latest.tar.gz -C /root/
+
+4. [root@www ies4linux-2.99.0.1]# ls
+ies4linux lang lib LICENSE mac README ui winereg
+[root@www ies4linux-2.99.0.1]# ./ies4linux
+You need to install wine first!
+Download it here: http://www.winehq.org
+
+5. [root@www ies4linux-2.99.0.1]# yum install wine cabextract
+
+
+Window7 iso
+https://www.fshare.vn/file/TYZRVSCQ6T
+SHA1:36AE90DEFBAD9D9539E649B193AE573B77A71C83
+
